@@ -47,11 +47,5 @@ void Pub:: show_Pub()
 
 }
 
-int main()
-{
-
-
-    return 0;
-}
 
 #endif HUB_H

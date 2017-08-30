@@ -1,6 +1,7 @@
 #ifndef ARCHER_H
 #define ARCHER_H
-
+#include "Role.h"
+using namespace std;
 
 ///弓箭手
 class Biu_Soldier: public Role

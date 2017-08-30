@@ -1,6 +1,23 @@
 #ifndef SEIGE_H
 #define SEIGE_H
 
+#include "Role.h"
+using namespace std;
+
+class Car_Soldier: public Role
+{
+public:
+    void ini();
+    void upgrade();
+    void get_ability();
+    void add_cnt(int num);
+
+private:
+    int level;
+    int cnt;
+};
+
+
 void Car_Soldier::ini()
 {
     string nname = "Siege Car";

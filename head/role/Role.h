@@ -1,7 +1,7 @@
 #ifndef ROLE_H
 #define ROLE_H
-
 #include <bits/stdc++.h>
+#include "Role.h"
 
 using namespace std;
 
