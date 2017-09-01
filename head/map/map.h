@@ -4,6 +4,7 @@
 
 #include <bits/stdc++.h>
 #include <conio.h>
+
 using namespace std;
 
 ///wide - 10  length - 24

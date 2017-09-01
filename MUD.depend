@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1504062893 source:g:\c++\mud\mud\main.cpp
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+	"mudhead.h"
+
+1503652496 g:\c++\mud\mud\head\role\shero.h
+	"Role.h"
+	"head\game\Find_Cow.h"
+	"head\game\Strategy.h"
+
+1504063048 g:\c++\mud\mud\head\role\role.h
+	<bits/stdc++.h>
+	"Role.h"
+
+1504064038 g:\c++\mud\mud\\head\game\find_cow.h
+	"Game.h"
+	"head\point\Point.h"
+
+1503644274 g:\c++\mud\mud\\head\game\game.h
+	<bits/stdc++.h>
+
+1503644526 g:\c++\mud\mud\\head\pont\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1503642164 g:\c++\mud\mud\\head\game\strategy.h
+	"Game.h"
+
+1504064038 g:\c++\mud\mud\head\game\find_cow.h
+	"Game.h"
+	"head\point\Point.h"
+
+1503644274 g:\c++\mud\mud\head\game\game.h
+	<bits/stdc++.h>
+
+1503642164 g:\c++\mud\mud\head\game\strategy.h
+	"Game.h"
+
+1503644526 g:\c++\mud\mud\head\pont\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1503644526 g:\c++\mud\mud\\head\point\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1503644526 g:\c++\mud\mud\head\point\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1504062894 g:\c++\mud\mud\mudhead.h
+	"head/game/Find_Cow.h"
+	"head/game/Strategy.h"
+	"head/map/hub.h"
+	"head/point/Point.h"
+	"head/role/Archer.h"
+	"head/role/Cavalry.h"
+	"head/role/Footman.h"
+	"head/role/Seige.h"
+	"head/role/Shero.h"
+
+1504063291 g:\c++\mud\mud\head\map\hub.h
+	"head/map/map.h"
+	<bits/stdc++.h>
+
+1504064662 g:\c++\mud\mud\\head\map\map.h
+	<bits/stdc++.h>
+	<conio.h>
+
+1504062991 g:\c++\mud\mud\head\role\archer.h
+	"Role.h"
+
+1503652160 g:\c++\mud\mud\head\role\cavalry.h
+
+1503652159 g:\c++\mud\mud\head\role\footman.h
+
+1504063256 g:\c++\mud\mud\head\role\seige.h
+	"Role.h"
+

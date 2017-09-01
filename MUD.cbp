@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MUD" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MUD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="G:/C++/MUD/MUD/" />
+					<Add directory="head" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MUD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="head/game/Find_Cow.h" />
+		<Unit filename="head/game/Game.h" />
+		<Unit filename="head/game/Strategy.h" />
+		<Unit filename="head/map/hub.h" />
+		<Unit filename="head/map/map.h" />
+		<Unit filename="head/point/Point.h" />
+		<Unit filename="head/role/Archer.h" />
+		<Unit filename="head/role/Cavalry.h" />
+		<Unit filename="head/role/Footman.h" />
+		<Unit filename="head/role/Role.h" />
+		<Unit filename="head/role/Seige.h" />
+		<Unit filename="head/role/Shero.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
