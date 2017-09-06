@@ -30,5 +30,10 @@ void cls()
     SetConsoleCursorPosition(hOut, pos);
 }
 
+void HideCursor()
+{
+    CONSOLE_CURSOR_INFO cursor_info = { 1, 0 };
+    SetConsoleCursorInfo( GetStdHandle(STD_OUTPUT_HANDLE), &cursor_info );
+}
 
-#endif MAP_H
+#endif //MAP_H

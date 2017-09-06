@@ -44,4 +44,4 @@ void Walk_Soldier::add_cnt(int num)
     cnt += num;
 }
 
-#endif FOOTMAN_H
+#endif //FOOTMAN_H

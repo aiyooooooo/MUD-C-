@@ -143,4 +143,4 @@ int Find_cow::Prim()
     return ans;
 }
 
-#endif FIND_COW_H
+#endif //FIND_COW_H

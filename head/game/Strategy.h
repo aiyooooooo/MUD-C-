@@ -77,4 +77,4 @@ void Strategy::carry_game()
     }
 }
 
-#endif STRATEGY_H
+#endif //STRATEGY_H

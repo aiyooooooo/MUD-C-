@@ -77,4 +77,4 @@ void Role::update_ability(double nability)
     ability = nability;
 }
 
-#endif ROLE_H
+#endif //ROLE_H

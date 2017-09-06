@@ -23,4 +23,4 @@ int Game::show_gold()
     return gold;
 }
 
-#endif GAME_H
+#endif //GAME_H

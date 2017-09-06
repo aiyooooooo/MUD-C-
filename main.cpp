@@ -5,8 +5,12 @@
 
 using namespace std;
 
+HWND hwnd=GetForegroundWindow();
+
 int main()
 {
+    ShowWindow(hwnd,SW_MAXIMIZE);
+
     int x;
     int y;
 

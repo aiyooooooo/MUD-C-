@@ -41,4 +41,4 @@ int Point::show_len()
     return obj.size();
 }
 
-#endif POINT_H
+#endif //POINT_H

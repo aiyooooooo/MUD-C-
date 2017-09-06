@@ -154,4 +154,4 @@ void Shero::buy_gift()
 
 }
 */
-#endif SHERO_H
+#endif //SHERO_H

@@ -44,4 +44,4 @@ void Horse_Soldier::add_cnt(int num)
     cnt += num;
 }
 
-#endif CAVALRY_H
+#endif //CAVALRY_H

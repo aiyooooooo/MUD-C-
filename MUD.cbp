@@ -37,15 +37,22 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="head/bag&amp;iteam/Bag.h" />
+		<Unit filename="Mudhead.h" />
+		<Unit filename="Mudhead.h" />
+		<Unit filename="Untitled1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="head/bag/Bag.h" />
+		<Unit filename="head/event/Event.h" />
+		<Unit filename="head/event/Hospital.h" />
+		<Unit filename="head/event/Pub.h" />
 		<Unit filename="head/game/Find_Cow.h" />
 		<Unit filename="head/game/Game.h" />
 		<Unit filename="head/game/Strategy.h" />
-		<Unit filename="head/map/city.h" />
-		<Unit filename="head/map/hub.h" />
-		<Unit filename="head/map/map.h" />
-		<Unit filename="head/map/path_one.h" />
-		<Unit filename="head/map/path_two.h" />
+		<Unit filename="head/map/City.h" />
+		<Unit filename="head/map/Map.h" />
+		<Unit filename="head/map/Path_one.h" />
+		<Unit filename="head/map/Path_two.h" />
 		<Unit filename="head/point/Point.h" />
 		<Unit filename="head/role/Archer.h" />
 		<Unit filename="head/role/Cavalry.h" />
@@ -54,8 +61,8 @@
 		<Unit filename="head/role/Role.h" />
 		<Unit filename="head/role/Seige.h" />
 		<Unit filename="head/role/Shero.h" />
+		<Unit filename="ini_game.cpp" />
 		<Unit filename="main.cpp" />
-		<Unit filename="mudhead.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

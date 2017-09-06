@@ -46,4 +46,4 @@ void Biu_Soldier::add_cnt(int num)
     cnt += num;
 }
 
-#endif ARCHER_H
+#endif //ARCHER_H

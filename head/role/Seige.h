@@ -46,4 +46,4 @@ void Car_Soldier::add_cnt(int num)
     cnt += num;
 }
 
-#endif SEIGE_H
+#endif// SEIGE_H
