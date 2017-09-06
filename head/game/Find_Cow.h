@@ -2,7 +2,7 @@
 #define FIND_COW_H
 
 #include "Game.h"
-#include "head\point\Point.h"
+#include "point\Point.h"
 
 class Find_cow: public Game
 {
@@ -13,7 +13,6 @@ public:
     void build_map();   ///建图
     int Prim();
 private:
-    int choose;
     int shero_place;
     int cow_place[5];
     Point point[6];
@@ -21,6 +20,38 @@ private:
 };
 
 int Find_cow::LIM = 100;
+
+void Find_cow::carry_game()
+{
+    char choose[500];
+    int mark = 1;
+
+    while(true){
+        ///输入合法性
+        mark = 1;
+        while(mark){
+            system("cls");
+            printf("welcome to find_cow\n");
+            gets(choose);
+            if(strlen(choose) > 1 || choose[0] > '3' || choose[0] < '1'){
+                continue;
+            }
+            else{
+                mark = 0;
+            }
+        }
+        if(choose[0] == '1'){
+            cout << 1 << endl;
+        }
+        else if(choose[0] == '2'){
+            cout << 2 << endl;
+        }
+        else{
+            break;
+        }
+    }
+
+}
 
 void Find_cow::ini()
 {

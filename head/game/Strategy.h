@@ -2,6 +2,8 @@
 #define STRATEGY_H
 
 #include "Game.h"
+#include <bits/stdc++.h>
+using namespace std;
 
 ///博弈
 class Strategy: public Game
@@ -32,6 +34,7 @@ void Strategy::carry_game()
 {
     char ops[50];
 
+    system("pause");
     for(int i = 1; i < 50; i ++){
         if(!stone){
             if(i % 2 == order){

@@ -5,6 +5,7 @@
 		<Option title="MUD" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
+		<Option virtualFolders="head\role\;" />
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/MUD" prefix_auto="1" extension_auto="1" />
@@ -15,6 +16,7 @@
 					<Add option="-g" />
 					<Add directory="G:/C++/MUD/MUD/" />
 					<Add directory="head" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -24,6 +26,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -34,19 +37,25 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="head/bag&amp;iteam/Bag.h" />
 		<Unit filename="head/game/Find_Cow.h" />
 		<Unit filename="head/game/Game.h" />
 		<Unit filename="head/game/Strategy.h" />
+		<Unit filename="head/map/city.h" />
 		<Unit filename="head/map/hub.h" />
 		<Unit filename="head/map/map.h" />
+		<Unit filename="head/map/path_one.h" />
+		<Unit filename="head/map/path_two.h" />
 		<Unit filename="head/point/Point.h" />
 		<Unit filename="head/role/Archer.h" />
 		<Unit filename="head/role/Cavalry.h" />
 		<Unit filename="head/role/Footman.h" />
+		<Unit filename="head/role/Hero.h" />
 		<Unit filename="head/role/Role.h" />
 		<Unit filename="head/role/Seige.h" />
 		<Unit filename="head/role/Shero.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="mudhead.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -83,3 +83,172 @@
 1504063256 g:\c++\mud\mud\head\role\seige.h
 	"Role.h"
 
+1504664081 source:c:\users\1900\desktop\mud-c--master\main.cpp
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+	"mudhead.h"
+
+1504660864 c:\users\1900\desktop\mud-c--master\mudhead.h
+	"../ini_game.cpp"
+	"game/Find_Cow.h"
+	"game/Strategy.h"
+	"point/Point.h"
+	"role/Archer.h"
+	"role/Cavalry.h"
+	"role/Footman.h"
+	"role/Seige.h"
+	"role/Shero.h"
+	"map/map.h"
+	"map/city.h"
+	"map/path_one.h"
+	"map/path_two.h"
+	"role/Hero.h"
+
+1504250718 c:\users\1900\desktop\mud-c--master\head\game\find_cow.h
+	"Game.h"
+	"point\Point.h"
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\game\game.h
+	<bits/stdc++.h>
+
+1504251884 c:\users\1900\desktop\mud-c--master\head\game\strategy.h
+	"Game.h"
+	<bits/stdc++.h>
+
+1504657963 c:\users\1900\desktop\mud-c--master\head\map\hub.h
+	<bits/stdc++.h>
+	"role/Shero.h"
+	"map/map.h"
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\point\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\role\archer.h
+	"Role.h"
+
+1504249711 c:\users\1900\desktop\mud-c--master\head\role\role.h
+	<bits/stdc++.h>
+	"Role.h"
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\role\cavalry.h
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\role\footman.h
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\role\seige.h
+	"Role.h"
+
+1504257104 c:\users\1900\desktop\mud-c--master\head\role\shero.h
+	"Role.h"
+	"game\Find_Cow.h"
+	"game\Strategy.h"
+
+1504666425 c:\users\1900\desktop\mud-c--master\head\map\map.h
+	<bits/stdc++.h>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+
+1504253637 c:\users\1900\desktop\mud-c--master\head\role\hero.h
+	"Role.h"
+
+1504666394 c:\users\1900\desktop\mud-c--master\head\map\city.h
+	<bits/stdc++.h>
+	<conio.h>
+	"map/hub.h"
+	"role/Hero.h"
+
+1504666436 c:\users\1900\desktop\mud-c--master\head\map\path_one.h
+
+1504666445 c:\users\1900\desktop\mud-c--master\head\map\path_two.h
+
+1504660836 source:c:\users\1900\desktop\mud-c--master\ini_game.cpp
+
+1504661161 c:\users\1900\desktop\mud-c--master\ini_game.cpp
+
+1504667420 source:c:\users\yomumax\desktop\mud-c--master\main.cpp
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+	"mudhead.h"
+
+1504660866 c:\users\yomumax\desktop\mud-c--master\mudhead.h
+	"../ini_game.cpp"
+	"game/Find_Cow.h"
+	"game/Strategy.h"
+	"point/Point.h"
+	"role/Archer.h"
+	"role/Cavalry.h"
+	"role/Footman.h"
+	"role/Seige.h"
+	"role/Shero.h"
+	"map/map.h"
+	"map/city.h"
+	"map/path_one.h"
+	"map/path_two.h"
+	"role/Hero.h"
+
+1504661162 c:\users\yomumax\desktop\mud-c--master\ini_game.cpp
+
+1504250720 c:\users\yomumax\desktop\mud-c--master\head\game\find_cow.h
+	"Game.h"
+	"point\Point.h"
+
+1504245162 c:\users\yomumax\desktop\mud-c--master\head\game\game.h
+	<bits/stdc++.h>
+
+1504245162 c:\users\yomumax\desktop\mud-c--master\head\point\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1504251886 c:\users\yomumax\desktop\mud-c--master\head\game\strategy.h
+	"Game.h"
+	<bits/stdc++.h>
+
+1504245162 c:\users\yomumax\desktop\mud-c--master\head\role\archer.h
+	"Role.h"
+
+1504249712 c:\users\yomumax\desktop\mud-c--master\head\role\role.h
+	<bits/stdc++.h>
+	"Role.h"
+
+1504245162 c:\users\yomumax\desktop\mud-c--master\head\role\cavalry.h
+
+1504245162 c:\users\yomumax\desktop\mud-c--master\head\role\footman.h
+
+1504245162 c:\users\yomumax\desktop\mud-c--master\head\role\seige.h
+	"Role.h"
+
+1504257106 c:\users\yomumax\desktop\mud-c--master\head\role\shero.h
+	"Role.h"
+	"game\Find_Cow.h"
+	"game\Strategy.h"
+
+1504667236 c:\users\yomumax\desktop\mud-c--master\head\map\map.h
+	<bits/stdc++.h>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1504667474 c:\users\yomumax\desktop\mud-c--master\head\map\city.h
+	<bits/stdc++.h>
+	<conio.h>
+	"map/hub.h"
+	"role/Hero.h"
+
+1504657964 c:\users\yomumax\desktop\mud-c--master\head\map\hub.h
+	<bits/stdc++.h>
+	"role/Shero.h"
+	"map/map.h"
+
+1504253638 c:\users\yomumax\desktop\mud-c--master\head\role\hero.h
+	"Role.h"
+
+1504666438 c:\users\yomumax\desktop\mud-c--master\head\map\path_one.h
+
+1504666446 c:\users\yomumax\desktop\mud-c--master\head\map\path_two.h
+
